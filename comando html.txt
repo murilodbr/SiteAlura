@@ -1,0 +1,29 @@
+Hover - faz uma animação quando passa o mouse
+gap - deixa um espaçamento enter 2  elementos
+
+.apresentação {
+    padding: 6% 15%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+body {
+    
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+<header class="cabeçalho">
+        <nav class="cabeçalho__menu">
+            <a href="cabeçalho__menu__link">Home</a>
+            <a href="cabeçalho__menu__link">Sobre mim</a>
+        </nav>
+    </header>
